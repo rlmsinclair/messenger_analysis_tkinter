@@ -770,6 +770,7 @@ class ModernMessengerExporter:
             except:
                 pass
             time.sleep(2)
+        self.driver.get("https://www.facebook.com/messages/t/")
 
     def create_confirmation_popup(self):
         """Create confirmation dialog"""

@@ -10,13 +10,13 @@ You can click on the green "Code" in the top right to download a zip file contai
 
 Extract the zip file.
 
-Make sure you have Python 3.11 installed.
+Make sure you have Python 3.12 installed.
 
 Run these commands in order.
 
 cd your_directory_here
 
-python3 -m venv venv
+python3.12 -m venv venv
 
 source venv/bin/activate
 

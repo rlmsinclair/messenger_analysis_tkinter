@@ -12,6 +12,8 @@ Make sure you have Python 3.11 installed.
 
 Run these commands in order.
 
+cd your_directory_here
+
 python3 -m venv venv
 
 source venv/activate

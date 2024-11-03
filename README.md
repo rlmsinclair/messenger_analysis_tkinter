@@ -14,10 +14,6 @@ Make sure you have Python 3.12 installed with tkinter.
 
 **If you don't have tkinter, you can install it for mac with homebrew (you will have to install homebrew first) using these:
 
-brew uninstall python@3.12
-
-brew install python@3.12
-
 brew install python-tk@3.12 
 
 Then run these commands in order.

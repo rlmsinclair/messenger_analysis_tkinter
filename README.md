@@ -1,6 +1,6 @@
 Export Facebook Messenger chats and analyze them with AI.
 
-Instructions:
+Instructions for Mac OS (Probably the same for Linux, might be slightly different for windows):
 
 Make sure you are on chrome version 130 by going to chrome://version
 
@@ -21,5 +21,9 @@ python3 -m venv venv
 source venv/bin/activate
 
 python3 -m pip install -r requirements.txt
+
+**If you don't have tkinter, you can install it for mac with homebrew (you will have to install homebrew first) using this:
+
+brew install python-tk
 
 python3 main.py

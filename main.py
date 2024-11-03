@@ -792,7 +792,7 @@ class ModernMessengerExporter:
 
         ctk.CTkLabel(
             popup,
-            text="Please select the chat you wish to export in the browser.\nPlease then zoom out as far as possible using 'Ctrl -' or 'Command -'",
+            text="Please select the chat you wish to export in the browser.\nPlease then zoom out as far as possible using 'Ctrl -' or 'Command -'\nClick confirm once you have done this.",
             font=ctk.CTkFont(size=16),
             justify="center"
         ).pack(pady=(50, 50))

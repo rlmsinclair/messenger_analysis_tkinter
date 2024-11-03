@@ -6,7 +6,7 @@ Make sure you are on chrome version 130 by going to chrome://version
 
 Download main.py, chromedriver and requirements.txt.
 
-You can click on the green "Get Code" to download a zip file containing these.
+You can click on the green "Code" in the top right to download a zip file containing these.
 
 Make sure you have Python 3.11 installed.
 

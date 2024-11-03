@@ -16,7 +16,7 @@ Make sure you have Python 3.12 installed with tkinter.
 
 brew uninstall python@3.12
 
-brew install python@3.12 --with-tcl-tk
+brew install tcl-tk
 
 Then run these commands in order.
 

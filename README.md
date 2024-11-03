@@ -8,6 +8,8 @@ Download main.py, chromedriver and requirements.txt.
 
 You can click on the green "Code" in the top right to download a zip file containing these.
 
+Extract the zip file.
+
 Make sure you have Python 3.11 installed.
 
 Run these commands in order.

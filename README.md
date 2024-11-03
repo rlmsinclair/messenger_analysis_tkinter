@@ -20,7 +20,7 @@ python3 -m venv venv
 
 source venv/bin/activate
 
-python3 -m pip install -r requirements.txt
+pip install -r requirements.txt
 
 **If you don't have tkinter, you can install it for mac with homebrew (you will have to install homebrew first) using this:
 
